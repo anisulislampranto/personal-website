@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.name{
+    color: red;
+}
+
+
+
+.sec1 {
+    display: block;
+    height: 450px;
+}
+
+
+.btnhireme{
+
+    text-decoration: none;
+    color: black;
+    background:chartreuse;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+.leftdiv{
+
+    float: left;
+    width:50%;
+    margin: 10px;
+    text-align: left;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    font-size: 24px;
+
+    
+    
+
+}
+
+
+.rdimg {
+
+    width: 500px;
+}
+
+.rightdiv{
+
+    float: left;
+    width: 20x;
+    height: 300px;
+
+}
+
+.imgleft{
+
+    height: 500px;
+    padding-top: 120px;
+
+}
+
+.sec2div1{
+    float: left;
+    width: 50%;
+    
+}
+
+.sec2div2{
+
+    float: left;
+    height: 600px;
+    width: 50%;
+    padding-top: 300px;
+
+
+}
+
+
+.btnCV{
+
+    text-decoration: none;
+    color: whitesmoke;
+    background:red;
+    padding: 15px 15px ;
+    border-radius: 7px;
+    display: inline-block;
+    margin-top: 5px;
+      
+
+}
+
+
+
+
